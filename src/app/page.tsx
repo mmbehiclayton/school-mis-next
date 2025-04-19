@@ -1,6 +1,6 @@
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <div className=''>Next Js SMS Homepage</div>
   )
 }
 
