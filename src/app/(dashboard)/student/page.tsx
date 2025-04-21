@@ -1,6 +1,6 @@
 const StudentPage = () => {
     return (
-      <div className="">StudentPage</div>
+      <div className="">Student Dashboard</div>
        
     );
   }

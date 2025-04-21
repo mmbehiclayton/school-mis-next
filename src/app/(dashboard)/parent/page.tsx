@@ -1,6 +1,6 @@
 const ParentPage = () => {
     return (
-      <div className="">ParentPage</div>
+      <div className="">Parent Dashboard</div>
        
     );
   }

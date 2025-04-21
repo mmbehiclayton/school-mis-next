@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next JS School Management Dashboard",
-  description: "Next.js School Management System",
+  title: "Next JS School Management System",
+  description: "Next js School Management System",
 };
 
 export default function RootLayout({
@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>test app{children}</body>
+      <body className={inter.className}>Test app{children}</body>
     </html>
   );
 }
